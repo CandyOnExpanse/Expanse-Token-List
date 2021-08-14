@@ -1,6 +1,5 @@
 {
     "name": "Token List",
-    "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/logo/EXP.png",
     "timestamp": "2021-07-13T00:00:00+00:00",
     "version": {
         "major": 1,
@@ -25,6 +24,30 @@
             "chainId": 2,
             "name": "Candy",
             "symbol": "SUGAR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/SUGAR.png"
+        },
+        {
+            "address": "0xd1365a5af713cde10c6ac3fb9edbb2bbbd4b2ba2",
+            "chainId": 2,
+            "name": "EggToken",
+            "symbol": "EGG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/SUGAR.png"
+        },
+        {
+            "address": "0x71c6a1ae78259f9e74cd4faa3f96cfd06d9e1616",
+            "chainId": 2,
+            "name": "Expanse Cash",
+            "symbol": "EXC",
+            "decimals": 10,
+            "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/SUGAR.png"
+        },
+        {
+            "address": "0x9d2761a714b5b2efa325a8a3eee21be32aaceb4a",
+            "chainId": 2,
+            "name": "Love",
+            "symbol": "LVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/SUGAR.png"
         }
