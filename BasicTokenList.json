@@ -1,5 +1,6 @@
 {
-    "name": "Token List",
+    "name": "Expanse Token List",
+    "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/SUGAR.png",
     "timestamp": "2021-07-13T00:00:00+00:00",
     "version": {
         "major": 1,
