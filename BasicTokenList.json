@@ -1,6 +1,6 @@
 {
     "name": "Expanse Blockchain Token List",
-    "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/SUGAR.png",
+    "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/logo/EXP.png",
     "timestamp": "2021-07-13T00:00:00+00:00",
     "version": {
         "major": 1,
@@ -18,7 +18,7 @@
             "name": "Wrapped Expanse",
             "symbol": "WEXP",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/SUGAR.png"
+            "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/WEXP.png"
         },
         {
             "address": "0x138d27629fb6076f72407a868e0b8f9c6215492d",
@@ -34,7 +34,7 @@
             "name": "EggToken",
             "symbol": "EGG",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/SUGAR.png"
+            "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/EGG.png"
         },
         {
             "address": "0x71c6a1ae78259f9e74cd4faa3f96cfd06d9e1616",
@@ -50,7 +50,7 @@
             "name": "Love",
             "symbol": "LVE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/SUGAR.png"
+            "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/LVE.png"
         }
     ]
 }
